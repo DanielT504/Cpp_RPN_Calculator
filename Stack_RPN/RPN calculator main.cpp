@@ -1,19 +1,3 @@
-/*****************************************************************************
- *	Name: Daniel Thero                                                       *
- *	Course: ICS4U                                                            *
- *	Date: April 11th, 2018                                                   *
- *	                                                                         *
- *	Purpose: Program creates a keyboard-based, functional RPN calculator     *
- *           using a stack class.                                            *
- *	                                                                         *
- *	Usage: Follow instructions given in-console.                             *
- *	                                                                         *
- *	Revision History: n/a                                                    *
- *	                                                                         *
- *	Known Issues: None                                                       *
- *	                                                                         *
- *****************************************************************************/
-
 #include "apstring.h"
 #include <iostream>
 #include <stdio.h>
